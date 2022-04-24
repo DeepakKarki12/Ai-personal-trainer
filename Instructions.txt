@@ -1,0 +1,5 @@
+Instructions :- 
+1. make sure that your leg is properly visible
+2. now bent your leg until it reaches the red line in the trackbar(bar will automatically turn to green 
+colour if the leg bent is <140 degree)
+3. now hold your leg in bent position atleast for 8 sec otherwise the rep will not count
